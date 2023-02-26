@@ -15,6 +15,7 @@
 
 🚀 With this Docker image, you can quickly and easily run linksnatch without needing to install any dependencies or configure your environment.
 
+---
 
 ## 🚀 Usage
 
@@ -29,8 +30,8 @@ docker run -p 3000:3000 varunsridharan/linksnatch:latest
 docker run -p 3000:3000 ghcr.io/varunsridharan/linksnatch:latest
 ```
 
-
 ---
 <!-- START common-footer.mustache -->
+
 
 <!-- END common-footer.mustache -->
