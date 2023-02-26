@@ -1,4 +1,3 @@
-# Dockerfile for a Dockerized version of the linksnatch tool
 # Maintainer: Varun Sridharan <varunsridharan23@gmail.com>
 # Dockerfile version: 1.0
 
