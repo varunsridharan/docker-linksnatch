@@ -30,6 +30,12 @@ docker run -p 3000:3000 varunsridharan/linksnatch:latest
 docker run -p 3000:3000 ghcr.io/varunsridharan/linksnatch:latest
 ```
 
+### Easypanel
+
+[Easypanel](https://easypanel.io) is a self-hosted Docker deployment platform, and it maintains a one-click deployment template for LinkSnatch built on this image:
+
+[![Deploy on Easypanel](https://easypanel.io/img/deploy-on-easypanel-40.svg)](https://easypanel.io/templates/linksnatch)
+
 ---
 <!-- START common-footer.mustache -->
 ## 📝 Changelog
